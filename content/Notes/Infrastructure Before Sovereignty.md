@@ -1,8 +1,8 @@
 ---
 title: Infrastructure Before Sovereignty
-sourceQuote: "Both those companies immediately went bankrupt. They spent almost their entire runway on lobbyists getting these laws passed, and the companies themselves no longer exist. So they didn't bother building up actual technical capability."
+sourceQuote: Both those companies immediately went bankrupt. They spent almost their entire runway on lobbyists getting these laws passed, and the companies themselves no longer exist. So they didn't bother building up actual technical capability.
 sourceAttribution: "[[Fred Scharmen]]"
-sourceLink: "[[CONCEPT/Website/Sources/Fred Scharmen Podcast - BS]]"
+sourceLink: "[[CONCEPT/Website/Sources/Fred Scharmen Podcast - Contain]]"
 ---
 Claims of sovereignty or independence must be preceded by development of practical capabilities and infrastructure.
 

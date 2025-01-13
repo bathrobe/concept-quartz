@@ -1,10 +1,10 @@
 ---
 title: Enforced Mutual Aid
-sourceQuote: "Astronauts of one state party shall render all possible assistance to astronauts of any other state party... this document has basically enshrined mutual aid in the entire universe."
+sourceQuote: Astronauts of one state party shall render all possible assistance to astronauts of any other state party... this document has basically enshrined mutual aid in the entire universe.
 sourceAttribution: "[[Fred Scharmen]]"
-sourceLink: "[[CONCEPT/Website/Sources/Fred Scharmen Podcast - BS]]"
+sourceLink: "[[CONCEPT/Website/Sources/Fred Scharmen Podcast - Contain]]"
 related:
-  - "[[The Minimum Viable Population]]"  # Both explore how small groups require structured cooperation to survive
+  - "[[The Minimum Viable Population]]"
 ---
 
 Extreme environments necessitate codified systems of mutual assistance and cooperation between potential competitors.

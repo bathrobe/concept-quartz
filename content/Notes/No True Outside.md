@@ -1,10 +1,10 @@
 ---
 title: No True Outside
-sourceQuote: "There is no outside anymore... human culture is affecting the planet in a way as if it were one continuous influenceable superstructure that you cannot get outside of."
+sourceQuote: There is no outside anymore... human culture is affecting the planet in a way as if it were one continuous influenceable superstructure that you cannot get outside of.
 sourceAttribution: "[[Fred Scharmen]]"
-sourceLink: "[[CONCEPT/Website/Sources/Fred Scharmen Podcast - BS]]"
+sourceLink: "[[CONCEPT/Website/Sources/Fred Scharmen Podcast - Contain]]"
 related:
-  - "[[Governance Without Sovereignty]]"  # Both explore how new communities must work within existing frameworks
+  - "[[Governance Without Sovereignty]]"
 ---
 
 Attempts to create sovereign spaces always require engagement with existing regulatory frameworks and power structures.

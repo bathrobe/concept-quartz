@@ -1,5 +1,5 @@
 ---
-source: Oral History Interview
+source: https://www.patreon.com/posts/201-outer-space-118258383
 author:
   - "[[Fred Scharmen]]"
 published: 2024-01-10
