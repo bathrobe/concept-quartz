@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/username/quartz",
+      "Made with Quartz": "https://quartz.jzhao.xyz/",
     },
   }),
 }
@@ -21,6 +21,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.NoteHeader(),
+    Component.SourceHeader(),
   ],
   left: [
     Component.PageTitle(),

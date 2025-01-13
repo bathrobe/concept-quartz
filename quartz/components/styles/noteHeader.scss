@@ -1,0 +1,16 @@
+.note-header {
+  margin-bottom: 2rem;
+
+  .source-quote {
+    font-style: italic;
+    border-left: 3px solid var(--secondary);
+    padding-left: 1rem;
+    margin: 1rem 0;
+
+    footer {
+      margin-top: 0.5rem;
+      font-size: 0.9em;
+      opacity: 0.8;
+    }
+  }
+}
