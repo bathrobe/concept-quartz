@@ -1,6 +1,22 @@
 .note-header {
   margin-bottom: 2rem;
 
+  .source-reference {
+    font-size: 0.9em;
+    margin-bottom: 0.5rem;
+    color: var(--gray);
+
+    .source-title {
+      color: var(--secondary);
+      font-weight: 500;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
   .source-quote {
     font-style: italic;
     border-left: 3px solid var(--secondary);
